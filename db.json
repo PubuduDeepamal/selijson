@@ -1,0 +1,40 @@
+[
+    {
+      "id": 0,
+      "Advice": "Canine Parvovirus:",
+      "Description": "A highly contagious viral disease that affects dogs, especially puppies. It causes severe gastrointestinal symptoms, such as vomiting, diarrhea, and dehydration."
+    },
+    {
+      "id": 1,
+      "Advice": "Feline Upper Respiratory Infection:",
+      "Description": "Also known as cat flu, it is a common viral or bacterial infection that affects the respiratory system of cats. Symptoms include sneezing, coughing, nasal discharge, and fever."
+    },
+    {
+      "id": 2,
+      "Advice": "Heartworm Disease: ",
+      "Description": "A parasitic infection transmitted through mosquito bites. Heartworms affect dogs and, less commonly, cats. It can lead to heart and lung damage, causing symptoms like coughing, difficulty breathing, and fatigue."
+    },
+    {
+      "id": 3,
+      "Advice": "Lyme Disease:",
+      "Description": "A bacterial infection transmitted by ticks. It affects dogs, cats, and humans. Symptoms may include lameness, fever, loss of appetite, and swollen joints."
+    },
+    {
+      
+      "id": 4,
+      "Advice": "Dental Disease: ",
+      "Description": "Common in both dogs and cats, dental diseases include conditions like periodontal disease, gingivitis, and tooth decay. It can lead to pain, bad breath, tooth loss, and systemic health issues."
+    },
+    {
+      "id": 5,
+      "Advice": "Urinary Tract Infections (UTIs):",
+      "Description": "Dogs and cats can develop UTIs, which are often caused by bacteria. Symptoms may include frequent urination, difficulty urinating, blood in urine, and urinary accidents."
+    },
+
+    {
+      "id": 6,
+      "Advice": "Skin Allergies:",
+      "Description": "Many pets suffer from allergies, which can manifest as itching, redness, rashes, and recurrent ear infections. Allergens can include fleas, pollen, certain foods, or environmental factors."
+    }
+
+  ]
